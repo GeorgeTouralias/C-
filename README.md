@@ -22,9 +22,13 @@ Delete) operations related to its corresponding entity.**
 • Repository(bare minimun )
 
 ## DatabaseSchema:
+<br>
 • Customers
+<br>
 • Orders
+<br>
 • Products
+<br>
 • items
 
 ## Controller Functions
