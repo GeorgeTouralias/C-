@@ -12,7 +12,7 @@ Delete) operations related to its corresponding entity.**
 
 ## Technologies Used:
 <br>
-•C#
+<br> • C#
 • .Net7
 • EntityFramework
 • Repository(bare minimun )
