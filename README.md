@@ -8,17 +8,20 @@ Products, and Items. The development approach involved
 creating three main controllers: CustomerController, 
 OrderController, and ProductController. Each controller is 
 responsible for specific CRUD (Create, Read, Update, 
-Delete) operations related to its corresponding entity.
-Technologies Used:** 
-***•C#
-•.Net7
-•EntityFramework
-•Repository(bare minimun )
-DatabaseSchema:
-•Customers
-•Orders
-•Products
-•items***
+Delete) operations related to its corresponding entity.**
+
+## Technologies Used:
+
+•C#
+• .Net7
+• EntityFramework
+• Repository(bare minimun )
+
+#DatabaseSchema:
+• Customers
+• Orders
+• Products
+• items
 
 ## Controller Functions
 
