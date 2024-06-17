@@ -23,15 +23,16 @@ DatabaseSchema:
 ## Controller Functions
 
 # •CustomerController:
- 1.Put:Update existing Customer
- 2.Post:Create a new Customer
- 3.Get:Gets Customers information
- 4.Delete:Delete a customer
+ 1. Put:Update existing Customer
+ 2. Post:Create a new Customer
+ 3. Get:Gets Customers information
+ 4. Delete:Delete a customer
 # •ProductController:
- 1.Put:Update existing Product
- 2.Post:Create a new Product
- 3.Get:Gets Products information
- 4.Delete:Delete a Product
-# •OrderController: 1.Post:Create a new Order
- 2.Get:Gets Orders information
- 3.Delete:Delete an Ordee
+ 1. Put:Update existing Product
+ 2. Post:Create a new Product
+ 3. Get:Gets Products information
+ 4. Delete:Delete a Product
+# •OrderController: 
+ 1. Post:Create a new Order
+ 2. Get:Gets Orders information
+ 3. Delete:Delete an Ordee
