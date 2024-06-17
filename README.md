@@ -11,13 +11,13 @@ responsible for specific CRUD (Create, Read, Update,
 Delete) operations related to its corresponding entity.**
 
 ## Technologies Used:
-
+<br>
 •C#
 • .Net7
 • EntityFramework
 • Repository(bare minimun )
 
-#DatabaseSchema:
+## DatabaseSchema:
 • Customers
 • Orders
 • Products
