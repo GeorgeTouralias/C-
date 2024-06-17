@@ -11,7 +11,7 @@ responsible for specific CRUD (Create, Read, Update,
 Delete) operations related to its corresponding entity.**
 
 ## Technologies Used:
-<br>
+<br> <br/>
 <br> • C#
 • .Net7
 • EntityFramework
